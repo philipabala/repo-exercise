@@ -1,2 +1,2 @@
 # repo-exercise
-Coursera repo excercise
+Coursera repo exercise
